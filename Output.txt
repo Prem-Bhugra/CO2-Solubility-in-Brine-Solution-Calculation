@@ -1,0 +1,3 @@
+Temperature    Pressure    NaCl Molality    Fugacity Coefficient for CO2    Henry's Constant for CO2    Phase Equilibrium Constant for H2O      Mole Fraction of H2O in Gas Phase    Mole fraction of CO2 in liquid phase (Calculated)     
+308.15         50          0                0.76716                         2192.27                     0.019945                                0.0196028                            0.017161                                              
+318.15         150         3.62             0.45482                         3015.2                      0.0066531                               0.006585                             0.010239                                              
